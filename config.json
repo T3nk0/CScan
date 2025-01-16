@@ -1,0 +1,9 @@
+{
+    "hunter_api_key": "your-hunter-key",
+    "fofa_email": "your-fofa-email",
+    "fofa_api_key": "your-fofa-key",
+    "zone_api_key": "your-zone-key",
+    "quake_api_key": "your-quake-key",
+    "max_page": 10,
+    "page_size": 100
+}
