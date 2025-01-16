@@ -21,7 +21,7 @@ import (
 
 // 版本信息
 const (
-	Version = "v1.0.0"
+	Version = "v1.0.1"
 )
 
 func main() {
